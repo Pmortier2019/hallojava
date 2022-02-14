@@ -14,9 +14,21 @@ class Practicum {
                 System.out.println(x
                 );
             }
+                {
+                    int num = 39, g = 1,sum = 0;
+
+                    while (g<=num)
+                    {
+                        sum += g;
+                        g++;
+
+                    } System.out.println(sum);
+
+                }
 
 
             }
+
 
             {
                 for (int count = 1; count<= 10; count++){
